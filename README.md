@@ -153,14 +153,18 @@ Pour tester plus facilement, entres `j.doe@novatize.com` comme courriel. L'API t
 
 Voir [Vérifier le formulaire et créer un profil](#vérifier-le-formulaire-et-créer-un-profil) pour la documentation de l'API.
 
-#### 8. :star: Layout Tablette
+### :star: Features spécifiques à un écran de tablette
+
+**8. :white_circle: Responsive pour tablette**
 
 Lorsque le width est plus petit que 950px, l'interface devrait réagir comme suit:
 
 - Seulement 4 photos doivent s'afficher dans un format 2x2.
 - (Optionnel) Les margins et paddings peuvent être ajustés pour diminuer les espaces vides.
 
-#### 9. :star: Layout Mobile
+### :star: Features spécifiques à un écran mobile
+
+**9. :white_circle: Responsive pour mobile**
 
 Lorsque le width est plus petit que 770px, l'interface devrait réagir comme suit:
 
